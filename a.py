@@ -1,0 +1,1 @@
+print("приветfjsdgkfhlj;KFDGJHBNSJDHURIGH!")

@@ -1,1 +1,1 @@
-print("салам?")
+print("салам?DASDASDJVASJHDVA")
