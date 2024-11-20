@@ -1,3 +1,3 @@
 a=4
-b=4
-print(a+b)dsad
+b=7
+print(a+b)

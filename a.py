@@ -1,3 +1,3 @@
-a=3
+a=7
 b=3
-print(a+b)asd
+print(a+b)
